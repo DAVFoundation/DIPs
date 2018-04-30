@@ -4,7 +4,7 @@ This repository is the main place to suggest improvements, changes, and addition
 
 ## DAV Improvement Proposal Process
 
-The process for proposing an improvement revolves around submitting a DAV Improvement Proposal (DIP) as an issue in this repository, an open discussion around it, drafting of a detailed proposal, acceptance and integration, or moving to hold status.
+The process for proposing an improvement revolves around submitting a DAV Improvement Proposal (DIP) as an issue in this repository, followed by an open discussion around it, drafting of a detailed proposal, acceptance and integration, or moving to hold status.
 
 ### DIP statuses
 
