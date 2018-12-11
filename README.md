@@ -31,3 +31,9 @@ DIPs can be proposed for:
 
 Create your DIP by opening a new issue and filling out the predefined template.
 
+## Join the conversation
+
+Log in to our Gitter channel to join the discussion:
+
+https://gitter.im/DAVFoundation/DAV-Contributors
+
